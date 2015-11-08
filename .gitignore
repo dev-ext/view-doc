@@ -1,0 +1,26 @@
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+test/bower_components
+test/
+
+## App Temp File 
+app/style.css
+app/vendor.css
+app/js/
+main/
+*.zip
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+# Mac
+*.DS_Store
+

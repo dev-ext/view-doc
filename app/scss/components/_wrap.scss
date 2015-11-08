@@ -1,0 +1,15 @@
+.doc_html,.doc_body {
+	height: 100%;
+}
+.doc_wrap {
+	width: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0 auto;
+	display: block;
+	overflow: hidden;
+
+	@media (min-width: $screen-md) {
+		padding: 0;
+	}
+}

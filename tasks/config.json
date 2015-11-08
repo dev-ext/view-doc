@@ -1,0 +1,25 @@
+{
+    "dist": "dist",
+    "app": "app",
+    "compile_js" :".tmp/js/",
+    "compile_js_vendor" :".tmp/js/vendor/",
+    "scripts" :"app/scripts/",
+    "images" : "app/images/",
+    "fontpath" :".tmp/fonts/",
+    "compile_styles":".tmp/",
+    "compile_Vstyles":".tmp/",
+   
+    "d_images":"dist/images/",
+    "d_compile_js" :"dist/js/",
+    "d_compile_js_vendor" :"dist/js/vendor/",
+    "d_fontpath" :"dist/fonts/",
+    "d_styles":"dist/",
+    "d_Vstyles":"dist/",
+   
+    "mainjs": "app/scripts/main.js",
+    "styles_scss":"app/style.scss",
+    "vendor_scss":"app/vendor.scss",
+
+    "u_mainjs" : "js/main.min.js",
+    "u_vendorjs" : "js/vendor/vendor.min.js"
+}
